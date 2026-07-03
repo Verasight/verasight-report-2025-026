@@ -1,0 +1,503 @@
+question_id,option_id,option_label,is_missing
+2024-006_a82_jackson,1,Abortion is fully banned with no exceptions,false
+2024-006_a82_jackson,2,Abortion is fully banned with few exceptions,false
+2024-006_a82_jackson,3,Abortion is legal very early in pregnancy (up to 6-9 weeks) and illegal after,false
+2024-006_a82_jackson,4,Abortion is legal until early to mid pregnancy (up to 15-20 weeks) and illegal after,false
+2024-006_a82_jackson,5,Abortion is legal with very few or no restrictions,false
+2024-006_a82_jackson,6,Not sure what the laws in my state are,false
+2025-026_elections_1,1,Very effective,false
+2025-026_elections_1,2,Somewhat effective,false
+2025-026_elections_1,3,Somewhat ineffective,false
+2025-026_elections_1,4,Very ineffective,false
+2025-026_elections_1,5,Don’t know,false
+2025-026_elections_10,1,Trump's approval ratings will increase,false
+2025-026_elections_10,2,Trump's approval ratings will decrease,false
+2025-026_elections_10,3,Trump's approval rating will stay the same,false
+2025-026_elections_11,1,Equality,false
+2025-026_elections_11,2,Democracy,false
+2025-026_elections_11,3,Freedom of press,false
+2025-026_elections_11,4,Religious freedom,false
+2025-026_elections_11,5,Capitalism,false
+2025-026_elections_11,6,Freedom of speech,false
+2025-026_elections_11,7,American culture,false
+2025-026_elections_11,8,None of the above,false
+2025-026_elections_12,1,"Candidate A who agrees with you on most important issues, but who polls and experts in the district show clearly running",false
+2025-026_elections_12,2,"Candidate B who disagrees with you on some important issues, but who polls and experts in the district show running even",false
+2025-026_elections_13,1,Israelis,false
+2025-026_elections_13,2,Palestinians,false
+2025-026_elections_13,3,Both,false
+2025-026_elections_13,4,Neither,false
+2025-026_elections_13,5,Don’t know,false
+2025-026_elections_14,1,Raised concerns about the physical and mental fitness of candidates,false
+2025-026_elections_14,2,Made you more aware of the need for your younger candidates,false
+2025-026_elections_14,3,Led you to consider age as a less important factor than experience and policy,false
+2025-026_elections_14,4,Did not impact your views on politics,false
+2025-026_elections_15,1,Strongly support,false
+2025-026_elections_15,2,Somewhat support,false
+2025-026_elections_15,3,Somewhat oppose,false
+2025-026_elections_15,4,Strongly oppose,false
+2025-026_elections_16,1,Not at all,false
+2025-026_elections_16,2,A little,false
+2025-026_elections_16,3,Somewhat,false
+2025-026_elections_16,4,A lot,false
+2025-026_elections_16,5,Completely,false
+2025-026_elections_17,1,Not at all comfortable,false
+2025-026_elections_17,2,Somewhat uncomfortable,false
+2025-026_elections_17,3,Neutral,false
+2025-026_elections_17,4,Somewhat comfortable,false
+2025-026_elections_17,5,Very comfortable,false
+2025-026_elections_18,1,Unchanging over time,false
+2025-026_elections_18,2,At times stronger than others,false
+2025-026_elections_18,3,Gradually diminishing over time,false
+2025-026_elections_18,4,None of the above,false
+2025-026_elections_19,1,More economically conservative,false
+2025-026_elections_19,2,More economically liberal,false
+2025-026_elections_19,3,Change in a different way,false
+2025-026_elections_19,4,No change,false
+2025-026_elections_2,1,Very effective,false
+2025-026_elections_2,2,Somewhat effective,false
+2025-026_elections_2,3,Somewhat ineffective,false
+2025-026_elections_2,4,Very ineffective,false
+2025-026_elections_2,5,Don’t know,false
+2025-026_elections_20,0,0 - preference for complete freedom to share any content on social media,false
+2025-026_elections_20,1,1,false
+2025-026_elections_20,2,2,false
+2025-026_elections_20,3,3,false
+2025-026_elections_20,4,4,false
+2025-026_elections_20,5,5,false
+2025-026_elections_20,6,6,false
+2025-026_elections_20,7,7,false
+2025-026_elections_20,8,8,false
+2025-026_elections_20,9,9,false
+2025-026_elections_20,10,10 - preference for strict restrictions to prevent the spread of misinformation,false
+2025-026_elections_21,1,Yes,false
+2025-026_elections_21,2,No,false
+2025-026_elections_21,3,I don’t know,false
+2025-026_elections_21,4,I don’t want to answer,false
+2025-026_elections_22,1,Strongly support,false
+2025-026_elections_22,2,Somewhat support,false
+2025-026_elections_22,3,Neither support nor oppose,false
+2025-026_elections_22,4,Somewhat oppose,false
+2025-026_elections_22,5,Strongly oppose,false
+2025-026_elections_23,1,Strongly disagree,false
+2025-026_elections_23,2,Disagree,false
+2025-026_elections_23,3,Undecided,false
+2025-026_elections_23,4,Agree,false
+2025-026_elections_23,5,Strongly agree,false
+2025-026_elections_23,6,I don’t know enough to say,false
+2025-026_elections_24,1,Yes,false
+2025-026_elections_24,2,No,false
+2025-026_elections_24,3,I don't know,false
+2025-026_elections_25,1,Your own country’s economic situation,false
+2025-026_elections_25,2,Your personal economic situation,false
+2025-026_elections_25,3,Your vote at the next midterms election for the outgoing administration,false
+2025-026_elections_25,4,Your vote for the democratic opposition,false
+2025-026_elections_25,5,Tariffs won't affect me,false
+2025-026_elections_26,1,Broadcast television,false
+2025-026_elections_26,2,Streaming television,false
+2025-026_elections_26,3,Social media,false
+2025-026_elections_26,4,Mailers and flyers,false
+2025-026_elections_26,5,Radio,false
+2025-026_elections_26,6,Other,false
+2025-026_elections_26,7,I prefer not to answer,false
+2025-026_elections_27,1,Canada,false
+2025-026_elections_27,2,Israel,false
+2025-026_elections_27,3,Mexico,false
+2025-026_elections_27,4,Russia,false
+2025-026_elections_27,5,United Kingdom,false
+2025-026_elections_27,6,Japan,false
+2025-026_elections_27,7,Other,false
+2025-026_elections_28,1,The Democratic Party,false
+2025-026_elections_28,2,The Republican Party,false
+2025-026_elections_28,3,Other,false
+2025-026_elections_28,4,I don’t know,false
+2025-026_elections_29,1,Yes - All U.S. Citizens with legal ties to the state should be allowed to vote.,false
+2025-026_elections_29,2,"Yes - But only if they have strong legal or family ties (e.g., military or missionary families)",false
+2025-026_elections_29,3,No - Only those who have physically lived in the state should be eligible,false
+2025-026_elections_29,4,Unsure / Need more information,false
+2025-026_elections_3,1,Approve,false
+2025-026_elections_3,2,Disapprove,false
+2025-026_elections_3,3,No opinion,false
+2025-026_elections_4,1,The governor of your state,false
+2025-026_elections_4,2,State legislators,false
+2025-026_elections_4,3,The mayor of your city,false
+2025-026_elections_4,4,Criminal court judges,false
+2025-026_elections_4,5,Your local prosecutor/DA,false
+2025-026_elections_4,6,Your local sheriff,false
+2025-026_elections_4,7,None of the above,false
+2025-026_elections_5,1,Strongly disagree,false
+2025-026_elections_5,2,Somewhat disagree,false
+2025-026_elections_5,3,Neither agree nor disagree,false
+2025-026_elections_5,4,Somewhat agree,false
+2025-026_elections_5,5,Strongly agree,false
+2025-026_elections_5,6,Don’t know / No opinion,false
+2025-026_elections_6,1,Strongly disagree,false
+2025-026_elections_6,2,Somewhat disagree,false
+2025-026_elections_6,3,Neither agree nor disagree,false
+2025-026_elections_6,4,Somewhat agree,false
+2025-026_elections_6,5,Strongly agree,false
+2025-026_elections_6,6,Don’t know / No opinion,false
+2025-026_elections_7,1,Democrats will win a large majority,false
+2025-026_elections_7,2,Democrats will win a slim majority,false
+2025-026_elections_7,3,Republicans will win a slim majority,false
+2025-026_elections_7,4,Republicans will win a large majority,false
+2025-026_elections_9,1,Democrats will win a large majority,false
+2025-026_elections_9,2,Democrats will win a slim majority,false
+2025-026_elections_9,3,Republicans will win a slim majority,false
+2025-026_elections_9,4,Republicans will win a large majority,false
+2025-026_elections_ar,1,Very concerned,false
+2025-026_elections_ar,2,Concerned,false
+2025-026_elections_ar,3,Moderately concerned,false
+2025-026_elections_ar,4,Only a little bit concerned,false
+2025-026_elections_ar,5,Not concerned at all,false
+2025-026_elections_rg,1,Strongly support,false
+2025-026_elections_rg,2,Support,false
+2025-026_elections_rg,3,Slightly support,false
+2025-026_elections_rg,4,Neither support nor oppose,false
+2025-026_elections_rg,5,Slightly oppose,false
+2025-026_elections_rg,6,Oppose,false
+2025-026_elections_rg,7,Strongly oppose,false
+2025-026_policy_10,1,A LOT MORE people believe conspiracy theories now than in the past.,false
+2025-026_policy_10,2,A FEW MORE people believe conspiracy theories now than in the past.,false
+2025-026_policy_10,3,The numbers are pretty similar.,false
+2025-026_policy_10,4,A FEW LESS people believe conspiracy theories now than in the past.,false
+2025-026_policy_10,5,A LOT LESS people believe conspiracy theories now than in the past.,false
+2025-026_policy_11,1,Strongly agree,false
+2025-026_policy_11,2,Somewhat agree,false
+2025-026_policy_11,3,Neither agree nor disagree,false
+2025-026_policy_11,4,Somewhat disagree,false
+2025-026_policy_11,5,Strongly disagree,false
+2025-026_policy_12,1,Extremely likely,false
+2025-026_policy_12,2,Very likely,false
+2025-026_policy_12,3,Somewhat likely,false
+2025-026_policy_12,4,Not too likely,false
+2025-026_policy_12,5,Not at all likely,false
+2025-026_policy_13,1,Political leaders in Washington should compromise with others and find middle ground on key issues.,false
+2025-026_policy_13,2,Political leaders in Washington should stand their ground and fight hard to put in place the ideas they believe in.,false
+2025-026_policy_14,1,Very effective in stopping sanctioned firms from developing dual-use technology,false
+2025-026_policy_14,2,Slightly effective in stopping sanctioned firms from developing dual-use technology,false
+2025-026_policy_14,3,Not effective,false
+2025-026_policy_14,4,Slightly counterproductive in triggering sanctioned firms to develop their own technology,false
+2025-026_policy_14,5,Completely counterproductive in triggering sanctioned firms to develop their own technology,false
+2025-026_policy_15,1,Twitter/X,false
+2025-026_policy_15,2,Facebook,false
+2025-026_policy_15,3,Instagram,false
+2025-026_policy_15,4,TikTok,false
+2025-026_policy_15,5,Bluesky,false
+2025-026_policy_15,6,Reddit,false
+2025-026_policy_15,7,TruthSocial,false
+2025-026_policy_15,8,None of these/I did not use social media,false
+2025-026_policy_16,1,Federal Government,false
+2025-026_policy_16,2,State Government,false
+2025-026_policy_16,3,Local Government,false
+2025-026_policy_17,1,Far too little,false
+2025-026_policy_17,2,Too little,false
+2025-026_policy_17,3,About right,false
+2025-026_policy_17,4,Too much,false
+2025-026_policy_17,5,Far too much,false
+2025-026_policy_17,6,I'm not familiar with the current level of government spending on facial recognition technology in my state,false
+2025-026_policy_18,1,Inflation,false
+2025-026_policy_18,2,Supply chains,false
+2025-026_policy_18,3,Extreme weather,false
+2025-026_policy_18,4,Immigration,false
+2025-026_policy_18,5,Corporate consolidation,false
+2025-026_policy_18,6,Climate change,false
+2025-026_policy_18,7,Government insurance regulations,false
+2025-026_policy_18,8,Not sure,false
+2025-026_policy_19,1,Partisan election,false
+2025-026_policy_19,2,Nonpartisan election,false
+2025-026_policy_19,3,Legislative election,false
+2025-026_policy_19,4,Gubernatorial appointment,false
+2025-026_policy_19,5,Assisted appointment,false
+2025-026_policy_19,6,Partisan primary election followed by a nonpartisan general election,false
+2025-026_policy_19,7,Don’t know,false
+2025-026_policy_2,1,Yes,false
+2025-026_policy_2,2,No,false
+2025-026_policy_2,3,Prefer not to answer,false
+2025-026_policy_20,1,Strongly agree,false
+2025-026_policy_20,2,Agree,false
+2025-026_policy_20,3,Neither agree nor disagree,false
+2025-026_policy_20,4,Disagree,false
+2025-026_policy_20,5,Strongly disagree,false
+2025-026_policy_21,1,A lot more,false
+2025-026_policy_21,2,Somewhat more,false
+2025-026_policy_21,3,About the same,false
+2025-026_policy_21,4,Somewhat less,false
+2025-026_policy_21,5,Much less,false
+2025-026_policy_22,1,Strongly disagree,false
+2025-026_policy_22,2,Disagree,false
+2025-026_policy_22,3,Slightly disagree,false
+2025-026_policy_22,4,Neither agree nor disagree,false
+2025-026_policy_22,5,Slightly agree,false
+2025-026_policy_22,6,Agree,false
+2025-026_policy_22,7,Strongly agree,false
+2025-026_policy_23,1,Strongly disagree,false
+2025-026_policy_23,2,Rather disagree,false
+2025-026_policy_23,3,Rather agree,false
+2025-026_policy_23,4,Strongly agree,false
+2025-026_policy_24,1,Essential/Crucial,false
+2025-026_policy_24,2,Useful,false
+2025-026_policy_24,3,No contribution,false
+2025-026_policy_24,4,Harmful,false
+2025-026_policy_24,5,Very harmful,false
+2025-026_policy_25,1,Strongly agree,false
+2025-026_policy_25,2,Somewhat agree,false
+2025-026_policy_25,3,Neither agree nor disagree,false
+2025-026_policy_25,4,Somewhat disagree,false
+2025-026_policy_25,5,Strongly disagree,false
+2025-026_policy_25,6,Not sure,false
+2025-026_policy_26,1,1 - Strongly disagree,false
+2025-026_policy_26,2,2 - Somewhat disagree,false
+2025-026_policy_26,3,3 - Neither agree nor disagree,false
+2025-026_policy_26,4,4 - Somewhat agree,false
+2025-026_policy_26,5,5 - Strongly agree,false
+2025-026_policy_27,1,None,false
+2025-026_policy_27,2,Very Little,false
+2025-026_policy_27,3,Little,false
+2025-026_policy_27,4,Some about specific places,false
+2025-026_policy_27,5,Some in general,false
+2025-026_policy_27,6,A lot,false
+2025-026_policy_27,7,Expert level knowledge,false
+2025-026_policy_28,1,Strongly support,false
+2025-026_policy_28,2,Support,false
+2025-026_policy_28,3,Somewhat support,false
+2025-026_policy_28,4,Neutral,false
+2025-026_policy_28,5,Somewhat oppose,false
+2025-026_policy_28,6,Oppose,false
+2025-026_policy_28,7,Strongly oppose,false
+2025-026_policy_29,1,Strongly agree,false
+2025-026_policy_29,2,Agree,false
+2025-026_policy_29,3,Somewhat agree,false
+2025-026_policy_29,4,Neither agree nor disagree,false
+2025-026_policy_29,5,Somewhat disagree,false
+2025-026_policy_29,6,Disagree,false
+2025-026_policy_29,7,Strongly disagree,false
+2025-026_policy_3,1,None of the time,false
+2025-026_policy_3,2,Some of the time,false
+2025-026_policy_3,3,Most of the time,false
+2025-026_policy_3,4,Just about always,false
+2025-026_policy_3,5,Always,false
+2025-026_policy_30,1,"Yes, the government can punish people for hate speech",false
+2025-026_policy_30,2,"No, the government cannot punish people for hate speech",false
+2025-026_policy_30,3,I’m not sure,false
+2025-026_policy_31,1,Strongly agree,false
+2025-026_policy_31,2,Rather agree,false
+2025-026_policy_31,3,Rather disagree,false
+2025-026_policy_31,4,Strongly disagree,false
+2025-026_policy_32,1,Spend much more,false
+2025-026_policy_32,2,Spend more,false
+2025-026_policy_32,3,Spend the same,false
+2025-026_policy_32,4,Spend less,false
+2025-026_policy_32,5,Spend much less,false
+2025-026_policy_33,1,Not at all,false
+2025-026_policy_33,2,Very little,false
+2025-026_policy_33,3,Considerably,false
+2025-026_policy_33,4,To a great extent,false
+2025-026_policy_4,1,OpenAI / ChatGPT,false
+2025-026_policy_4,2,Gemini,false
+2025-026_policy_4,3,Grok,false
+2025-026_policy_4,4,Microsoft Copilot,false
+2025-026_policy_4,5,Claude,false
+2025-026_policy_4,6,Something else,false
+2025-026_policy_4,7,I do not use AI chatbots,false
+2025-026_policy_5,1,Politics,false
+2025-026_policy_5,2,Sports,false
+2025-026_policy_5,3,Entertainment,false
+2025-026_policy_5,4,Personal tasks,false
+2025-026_policy_5,5,Work related tasks,false
+2025-026_policy_5,6,Health,false
+2025-026_policy_5,7,I do not use artificial intelligence,false
+2025-026_policy_6,1,Very often,false
+2025-026_policy_6,2,Sometimes,false
+2025-026_policy_6,3,Rarely,false
+2025-026_policy_6,4,Never,false
+2025-026_policy_6,5,Not sure/Don't know what ethnic media is,false
+2025-026_policy_7,1,"Yes, in my native/heritage language",false
+2025-026_policy_7,2,"Yes, in another non-English language",false
+2025-026_policy_7,3,"No, I only saw/heard political ads in English",false
+2025-026_policy_7,4,I did not see/hear any political ads,false
+2025-026_policy_8,1,A fair business model and a legitimate way for people to earn money.,false
+2025-026_policy_8,2,An opportunity for empowerment in an unfair labor market for those willing to work hard.,false
+2025-026_policy_8,3,"Often misleading about potential earnings, with most benefits going to those at the top - even if its not a scam.",false
+2025-026_policy_8,4,"A business model that has both benefits and risks, depending on the situation.",false
+2025-026_policy_8,5,A scam or pyramid scheme designed to exploit participants.,false
+2025-026_policy_9,1,Strongly disagree,false
+2025-026_policy_9,2,Disagree,false
+2025-026_policy_9,3,Neither agree nor disagree,false
+2025-026_policy_9,4,Agree,false
+2025-026_policy_9,5,Strongly agree,false
+2025-026_society_1,1,Under 25 years old,false
+2025-026_society_1,2,25-29 years old,false
+2025-026_society_1,3,30-34 years old,false
+2025-026_society_1,4,35-39 years old,false
+2025-026_society_1,5,40-44 years old,false
+2025-026_society_1,6,45-49 years old,false
+2025-026_society_1,7,50 years old or older,false
+2025-026_society_10,1,Strongly agree,false
+2025-026_society_10,2,Agree,false
+2025-026_society_10,3,Somewhat agree,false
+2025-026_society_10,4,Neither agree nor disagree,false
+2025-026_society_10,5,Somewhat disagree,false
+2025-026_society_10,6,Disagree,false
+2025-026_society_10,7,Strongly disagree,false
+2025-026_society_12,1,"Yes, and I consider generative AI to be an art form of its own with artists of its own.",false
+2025-026_society_12,2,"Yes, but I don’t consider generative AI to be an art form of its own with artists of its own",false
+2025-026_society_12,3,"No, but I do consider generative AI to be an art form of its own with artists of its own",false
+2025-026_society_12,4,"No, and I don’t consider generative AI to be an art form of its own with artists of its own",false
+2025-026_society_12,5,No because the work of human artists will always respect copyright and has more “soul” than AI generated pieces,false
+2025-026_society_13,1,$10,false
+2025-026_society_13,2,$8,false
+2025-026_society_13,3,$6.50,false
+2025-026_society_13,4,$5,false
+2025-026_society_13,5,$3.50,false
+2025-026_society_13,6,$2.50,false
+2025-026_society_13,7,$0,false
+2025-026_society_15,1,Positively,false
+2025-026_society_15,2,Negatively,false
+2025-026_society_15,3,No opinion,false
+2025-026_society_16,1,1 - Least comfortable,false
+2025-026_society_16,2,2,false
+2025-026_society_16,3,3,false
+2025-026_society_16,4,4,false
+2025-026_society_16,5,5 - Most comfortable,false
+2025-026_society_17,1,"Yes, because it will reduce federal spending",false
+2025-026_society_17,2,"Yes, because it will improve public services",false
+2025-026_society_17,3,"No, because it will lead to worse public services",false
+2025-026_society_17,4,"No, because it will make government less responsive",false
+2025-026_society_17,5,"No, because it will make government too powerful",false
+2025-026_society_17,6,I don’t know,false
+2025-026_society_18,1,Yes,false
+2025-026_society_18,2,No,false
+2025-026_society_19,1,Strongly agree,false
+2025-026_society_19,2,Somewhat agree,false
+2025-026_society_19,3,Neither agree nor disagree,false
+2025-026_society_19,4,Somewhat disagree,false
+2025-026_society_19,5,Strongly disagree,false
+2025-026_society_2,1,Under 25 years old,false
+2025-026_society_2,2,25-29 years old,false
+2025-026_society_2,3,30-34 years old,false
+2025-026_society_2,4,35-39 years old,false
+2025-026_society_2,5,40-44 years old,false
+2025-026_society_2,6,45-49 years old,false
+2025-026_society_2,7,50 years old or older,false
+2025-026_society_20,1,Strongly agree,false
+2025-026_society_20,2,Agree,false
+2025-026_society_20,3,Somewhat agree,false
+2025-026_society_20,4,Neither agree nor disagree,false
+2025-026_society_20,5,Somewhat disagree,false
+2025-026_society_20,6,Disagree,false
+2025-026_society_20,7,Strongly disagree,false
+2025-026_society_21,1,Extremely inconsistent (times varied by more than 3 hours day-to-day),false
+2025-026_society_21,2,Very inconsistent (times varied by 2-3 hours day-to-day),false
+2025-026_society_21,3,Somewhat inconsistent (times varied by 1-2 hours day-to-day),false
+2025-026_society_21,4,Somewhat consistent (times varied by 30-60 minutes day-to-day),false
+2025-026_society_21,5,Very consistent (times varied by 15-30 minutes day-to-day),false
+2025-026_society_21,6,Extremely consistent (same bed/wake times within 15 minutes every day),false
+2025-026_society_22,1,Strongly disapprove,false
+2025-026_society_22,2,Disapprove,false
+2025-026_society_22,3,Neutral,false
+2025-026_society_22,4,Approve,false
+2025-026_society_22,5,Strongly approve,false
+2025-026_society_23,1,Trade/Economic Relations,false
+2025-026_society_23,2,Military Power,false
+2025-026_society_23,3,Promoting Ideology,false
+2025-026_society_23,4,Other,false
+2025-026_society_24,1,Strong alignment,false
+2025-026_society_24,2,Some alignment,false
+2025-026_society_24,3,Some nonalignment,false
+2025-026_society_24,4,Strong nonalignment,false
+2025-026_society_24,5,I'm not sure,false
+2025-026_society_25,1,0 - Most left wing,false
+2025-026_society_25,2,1,false
+2025-026_society_25,3,2,false
+2025-026_society_25,4,3 - Most right wing,false
+2025-026_society_26,1,Not at all,false
+2025-026_society_26,2,Very little,false
+2025-026_society_26,3,Considerably,false
+2025-026_society_26,4,To a great extent,false
+2025-026_society_27,1,"Yes, this would mean that prices decreased from last month",false
+2025-026_society_27,2,"No, this would not mean that prices decreased from last month",false
+2025-026_society_28,1,"Implemented energy-saving or low-carbon technologies (e.g., solar panels, energy-efficient appliance)",false
+2025-026_society_28,2,"Changed daily behaviors to reduce carbon footprint (e.g., reduced car use, dietary changes)",false
+2025-026_society_28,3,"Made changes to the home to better cope with climate risks (flood-proofing, wind-resistant windows, etc)",false
+2025-026_society_28,4,Obtained insurance or other financial protection against climate-related hazards,false
+2025-026_society_28,5,Considered or planned to move to a different location due to climate risks,false
+2025-026_society_28,6,Already relocated due to climate risks,false
+2025-026_society_28,7,None of the above,false
+2025-026_society_29,1,Strongly agree,false
+2025-026_society_29,2,Agree,false
+2025-026_society_29,3,Neither agree nor disagree,false
+2025-026_society_29,4,Disagree,false
+2025-026_society_29,5,Strongly disagree,false
+2025-026_society_3,1,"Less than $40,000",false
+2025-026_society_3,2,"$40,000 to $64,999",false
+2025-026_society_3,3,"$65,000 to $89,999",false
+2025-026_society_3,4,"$90,000 to $114,999",false
+2025-026_society_3,5,"$115,000 to $139,999",false
+2025-026_society_3,6,"$140,000 to $164,999",false
+2025-026_society_3,7,"$165,000 or more",false
+2025-026_society_30,1,...at significantly lower rates than US-born citizens,false
+2025-026_society_30,2,...at somewhat lower rates than US-born citizens,false
+2025-026_society_30,3,...at roughly the same rates as US-born citizens,false
+2025-026_society_30,4,..at somewhat higher rates than US-born citizens,false
+2025-026_society_30,5,...at significantly higher rates than US-born citizens,false
+2025-026_society_31,1,Local newspaper,false
+2025-026_society_31,2,TV newscast,false
+2025-026_society_31,3,Radio newscast,false
+2025-026_society_31,4,Friends and family,false
+2025-026_society_31,5,Social media,false
+2025-026_society_31,6,Other (please specify):,false
+2025-026_society_31,7,None of these,false
+2025-026_society_32,1,"The national government in Washington, D.C. should determine which conditions all babies are screened for, regardless of",false
+2025-026_society_32,2,"The national government in Washington, D.C. should make recommendations about which conditions are screened for, with de",false
+2025-026_society_32,3,"The national government in Washington, D.C. should not have a role; each state should independently decide which conditi",false
+2025-026_society_32,4,"Neither the national government in Washington, D.C. nor the state government should have a role; parents should decide w",false
+2025-026_society_33,1,Cat,false
+2025-026_society_33,2,Dog,false
+2025-026_society_34,1,I strongly believe they apply esoteric powers during electioneering,false
+2025-026_society_34,2,They align with religious entities to influence the voting population among other metaphysical activities,false
+2025-026_society_34,3,They only engage in spiritual practices to compliment other conventional electoral strategies,false
+2025-026_society_34,4,I don’t really think they do this,false
+2025-026_society_4,1,"Less than $40,000",false
+2025-026_society_4,2,"$40,000 to $64,999",false
+2025-026_society_4,3,"$65,000 to $89,999",false
+2025-026_society_4,4,"$90,000 to $114,999",false
+2025-026_society_4,5,"$115,000 to $139,000",false
+2025-026_society_4,6,"$140,000 to $164,999",false
+2025-026_society_4,7,"$165,000 or more",false
+2025-026_society_6,1,Lower cost of living,false
+2025-026_society_6,2,Dissatisfaction with current political leadership,false
+2025-026_society_6,3,Seeking better job opportunities,false
+2025-026_society_6,4,To be with family and friends abroad,false
+2025-026_society_6,5,Better and/or lower-cost healthcare,false
+2025-026_society_6,6,Concerns about safety and security,false
+2025-026_society_6,7,Other reason(s) not mentioned here,false
+2025-026_society_7,1,No,false
+2025-026_society_7,2,One or two,false
+2025-026_society_7,3,Three or four,false
+2025-026_society_7,4,More than four,false
+2025-026_society_8,1,1 - Strongly oppose,false
+2025-026_society_8,2,2,false
+2025-026_society_8,3,3,false
+2025-026_society_8,4,4,false
+2025-026_society_8,5,5,false
+2025-026_society_8,6,6,false
+2025-026_society_8,7,7 - Strongly support,false
+2025-026_society_9,1,More,false
+2025-026_society_9,2,Less,false
+2025-026_society_9,3,Same,false
+2025-119_q46,1,Definitely planning to move,false
+2025-119_q46,2,Seriously considering moving,false
+2025-119_q46,3,Moderately considering moving,false
+2025-119_q46,4,Slightly considering moving,false
+2025-119_q46,5,Definitely not considering moving,false
+2025-119_q7,1,Very optimistic,false
+2025-119_q7,2,Somewhat optimistic,false
+2025-119_q7,3,Neither optimistic nor pessimistic,false
+2025-119_q7,4,Somewhat pessimistic,false
+2025-119_q7,5,Very pessimistic,false
+2025-119_q75,1,I currently own my home,false
+2025-119_q75,2,"I currently rent my home, but have owned a home in the past",false
+2025-119_q75,3,I currently rent my home and have never owned a home.,false
+2025-119_q75,4,"I have another living arrangement (eg., living with family, in student housing, etc.), but have owned a home in the past",false
+2025-119_q75,5,I have another living arrangement and have never owned a home,false
