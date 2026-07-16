@@ -1,10 +1,10 @@
 question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,unweighted_n,is_missing,source_url
-2024-006_a82_jackson,1,Abortion is fully banned with no exceptions,0.10917729622809307,10.92,109.17729622809317,106,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
-2024-006_a82_jackson,2,Abortion is fully banned with few exceptions,0.16489314935426053,16.49,164.8931493542607,161,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
-2024-006_a82_jackson,3,Abortion is legal very early in pregnancy (up to 6-9 weeks) and illegal after,0.15179657559521648,15.18,151.7965755952166,159,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
-2024-006_a82_jackson,4,Abortion is legal until early to mid pregnancy (up to 15-20 weeks) and illegal after,0.13331017532286213,13.33,133.31017532286225,132,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
-2024-006_a82_jackson,5,Abortion is legal with very few or no restrictions,0.20338165201271866,20.34,203.38165201271883,205,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
-2024-006_a82_jackson,6,Not sure what the laws in my state are,0.23744115148684916,23.74,237.44115148684938,237,false,https://reports.verasight.io/reports/verasight-interdisciplinary-omnibus-survey-2024-006#to-the-best-of-your-knowledge-what-is-the-legal-status-of-abortion-in-your-state-as-of-today
+2024-006_a82_jackson,1,Abortion is fully banned with no exceptions,0.10917729622809307,10.92,109.17729622809317,106,false,https://github.com/Verasight/verasight-report-2024-006
+2024-006_a82_jackson,2,Abortion is fully banned with few exceptions,0.16489314935426053,16.49,164.8931493542607,161,false,https://github.com/Verasight/verasight-report-2024-006
+2024-006_a82_jackson,3,Abortion is legal very early in pregnancy (up to 6-9 weeks) and illegal after,0.15179657559521648,15.18,151.7965755952166,159,false,https://github.com/Verasight/verasight-report-2024-006
+2024-006_a82_jackson,4,Abortion is legal until early to mid pregnancy (up to 15-20 weeks) and illegal after,0.13331017532286213,13.33,133.31017532286225,132,false,https://github.com/Verasight/verasight-report-2024-006
+2024-006_a82_jackson,5,Abortion is legal with very few or no restrictions,0.20338165201271866,20.34,203.38165201271883,205,false,https://github.com/Verasight/verasight-report-2024-006
+2024-006_a82_jackson,6,Not sure what the laws in my state are,0.23744115148684916,23.74,237.44115148684938,237,false,https://github.com/Verasight/verasight-report-2024-006
 2025-026_elections_1,1,Very effective,0.07549164427055573,7.55,75.4916442705558,70,false,https://verasight-mpsa-2025.tiiny.co
 2025-026_elections_1,2,Somewhat effective,0.19781053950225955,19.78,197.81053950225973,198,false,https://verasight-mpsa-2025.tiiny.co
 2025-026_elections_1,3,Somewhat ineffective,0.2168603877405741,21.69,216.86038774057428,214,false,https://verasight-mpsa-2025.tiiny.co
@@ -150,13 +150,13 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2025-026_elections_ar,3,Moderately concerned,0.19545518576801382,19.55,195.455185768014,197,false,https://verasight-mpsa-2025.tiiny.co
 2025-026_elections_ar,4,Only a little bit concerned,0.15555533208435265,15.56,155.55533208435278,156,false,https://verasight-mpsa-2025.tiiny.co
 2025-026_elections_ar,5,Not concerned at all,0.2553955507918784,25.54,255.39555079187866,236,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,1,Strongly support,0.07047191872310024,7.05,70.4719187231003,68,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,2,Support,0.1189869774355451,11.9,118.9869774355452,130,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,3,Slightly support,0.13248019063032326,13.25,132.4801906303234,142,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,4,Neither support nor oppose,0.25362440726509106,25.36,253.62440726509126,238,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,5,Slightly oppose,0.11747810453986225,11.75,117.47810453986236,114,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,6,Oppose,0.11006834620301956,11.01,110.06834620301966,111,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_elections_rg,7,Strongly oppose,0.19689005520305847,19.69,196.89005520305864,197,false,https://verasight-mpsa-2025.tiiny.co
+2025-026_elections_rg,1,Strongly support,0.07047191872310024,7.05,70.4719187231003,68,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,2,Support,0.1189869774355451,11.9,118.9869774355452,130,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,3,Slightly support,0.13248019063032326,13.25,132.4801906303234,142,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,4,Neither support nor oppose,0.25362440726509106,25.36,253.62440726509126,238,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,5,Slightly oppose,0.11747810453986225,11.75,117.47810453986236,114,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,6,Oppose,0.11006834620301956,11.01,110.06834620301966,111,false,https://verasight-apsa-2024.tiiny.co
+2025-026_elections_rg,7,Strongly oppose,0.19689005520305847,19.69,196.89005520305864,197,false,https://verasight-apsa-2024.tiiny.co
 2025-026_policy_10,1,A LOT MORE people believe conspiracy theories now than in the past.,0.42083113450966486,42.08,420.8311345096652,431,false,https://verasight-mpsa-2025.tiiny.co
 2025-026_policy_10,2,A FEW MORE people believe conspiracy theories now than in the past.,0.2649616476249259,26.5,264.9616476249262,258,false,https://verasight-mpsa-2025.tiiny.co
 2025-026_policy_10,3,The numbers are pretty similar.,0.2566262055746845,25.66,256.6262055746848,259,false,https://verasight-mpsa-2025.tiiny.co
@@ -289,10 +289,10 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2025-026_policy_32,3,Spend the same,0.3117781683556057,31.18,311.77816835560594,313,false,https://verasight-mpsa-2025.tiiny.co
 2025-026_policy_32,4,Spend less,0.06710919434776726,6.71,67.10919434776731,65,false,https://verasight-mpsa-2025.tiiny.co
 2025-026_policy_32,5,Spend much less,0.03769460295582769,3.77,37.694602955827726,37,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_policy_33,1,Not at all,0.05509252640760026,5.51,55.09252640760031,55,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_policy_33,2,Very little,0.23731694328730354,23.73,237.31694328730376,228,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_policy_33,3,Considerably,0.5069052292281366,50.69,506.90522922813705,511,false,https://verasight-mpsa-2025.tiiny.co
-2025-026_policy_33,4,To a great extent,0.2006853010769596,20.07,200.68530107695977,206,false,https://verasight-mpsa-2025.tiiny.co
+2025-026_policy_33,1,Not at all,0.05509252640760026,5.51,55.09252640760031,55,false,https://verasight-apsa-2024.tiiny.co
+2025-026_policy_33,2,Very little,0.23731694328730354,23.73,237.31694328730376,228,false,https://verasight-apsa-2024.tiiny.co
+2025-026_policy_33,3,Considerably,0.5069052292281366,50.69,506.90522922813705,511,false,https://verasight-apsa-2024.tiiny.co
+2025-026_policy_33,4,To a great extent,0.2006853010769596,20.07,200.68530107695977,206,false,https://verasight-apsa-2024.tiiny.co
 2025-026_policy_4,1,OpenAI / ChatGPT,0.4355026223239592,43.55,435.5026223239596,421,false,https://verasight-mpsa-2025.tiiny.co
 2025-026_policy_4,2,Gemini,0.26898047901964633,26.9,268.98047901964657,263,false,https://verasight-mpsa-2025.tiiny.co
 2025-026_policy_4,3,Grok,0.06885034091388388,6.89,68.85034091388394,64,false,https://verasight-mpsa-2025.tiiny.co
@@ -486,18 +486,18 @@ question_id,option_id,option_label,weighted_share,weighted_percent,weighted_n,un
 2025-026_society_9,1,More,0.555654251732138,55.57,555.6542517321375,567,false,https://verasight-mpsa-2025.tiiny.co
 2025-026_society_9,2,Less,0.08165728198111721,8.17,81.65728198111714,74,false,https://verasight-mpsa-2025.tiiny.co
 2025-026_society_9,3,Same,0.36268846628674484,36.27,362.68846628674453,359,false,https://verasight-mpsa-2025.tiiny.co
-2025-119_q46,1,Definitely planning to move,0.027797767857652735,2.78,27.79776785765271,28,false,https://reports.verasight.io/reports/apsa-2025#have-you-considered-moving-out-of-the-united-states-in-the-next-two-years
-2025-119_q46,2,Seriously considering moving,0.04986746232171324,4.99,49.8674623217132,56,false,https://reports.verasight.io/reports/apsa-2025#have-you-considered-moving-out-of-the-united-states-in-the-next-two-years
-2025-119_q46,3,Moderately considering moving,0.10656443297151227,10.66,106.56443297151218,97,false,https://reports.verasight.io/reports/apsa-2025#have-you-considered-moving-out-of-the-united-states-in-the-next-two-years
-2025-119_q46,4,Slightly considering moving,0.14987131934557135,14.99,149.8713193455712,148,false,https://reports.verasight.io/reports/apsa-2025#have-you-considered-moving-out-of-the-united-states-in-the-next-two-years
-2025-119_q46,5,Definitely not considering moving,0.6658990175035504,66.59,665.8990175035498,671,false,https://reports.verasight.io/reports/apsa-2025#have-you-considered-moving-out-of-the-united-states-in-the-next-two-years
-2025-119_q7,1,Very optimistic,0.1407308477880036,14.07,140.73084778800373,138,false,https://reports.verasight.io/reports/apsa-2025#how-optimistic-do-you-feel-about-the-us-economy-in-the-next-year
-2025-119_q7,2,Somewhat optimistic,0.2071044207225879,20.71,207.1044207225881,216,false,https://reports.verasight.io/reports/apsa-2025#how-optimistic-do-you-feel-about-the-us-economy-in-the-next-year
-2025-119_q7,3,Neither optimistic nor pessimistic,0.19106000820110972,19.11,191.0600082011099,168,false,https://reports.verasight.io/reports/apsa-2025#how-optimistic-do-you-feel-about-the-us-economy-in-the-next-year
-2025-119_q7,4,Somewhat pessimistic,0.22344333499591829,22.34,223.4433349959185,227,false,https://reports.verasight.io/reports/apsa-2025#how-optimistic-do-you-feel-about-the-us-economy-in-the-next-year
-2025-119_q7,5,Very pessimistic,0.23766138829238037,23.77,237.6613882923806,251,false,https://reports.verasight.io/reports/apsa-2025#how-optimistic-do-you-feel-about-the-us-economy-in-the-next-year
-2025-119_q75,1,I currently own my home,0.48418023630933354,48.42,484.18023630933396,515,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
-2025-119_q75,2,"I currently rent my home, but have owned a home in the past",0.07669843275192824,7.67,76.69843275192831,81,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
-2025-119_q75,3,I currently rent my home and have never owned a home.,0.22079718701840145,22.08,220.79718701840164,218,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
-2025-119_q75,4,"I have another living arrangement (eg., living with family, in student housing, etc.), but have owned a home in the past",0.10064546945985639,10.06,100.64546945985649,80,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
-2025-119_q75,5,I have another living arrangement and have never owned a home,0.11767867446048032,11.77,117.67867446048042,106,false,https://reports.verasight.io/reports/apsa-2025#which-of-the-following-best-describes-your-current-housing-situation-and-history
+2025-119_q46,1,Definitely planning to move,0.027797767857652735,2.78,27.79776785765271,28,false,https://verasight-mpsa-2025.tiiny.co
+2025-119_q46,2,Seriously considering moving,0.04986746232171324,4.99,49.8674623217132,56,false,https://verasight-mpsa-2025.tiiny.co
+2025-119_q46,3,Moderately considering moving,0.10656443297151227,10.66,106.56443297151218,97,false,https://verasight-mpsa-2025.tiiny.co
+2025-119_q46,4,Slightly considering moving,0.14987131934557135,14.99,149.8713193455712,148,false,https://verasight-mpsa-2025.tiiny.co
+2025-119_q46,5,Definitely not considering moving,0.6658990175035504,66.59,665.8990175035498,671,false,https://verasight-mpsa-2025.tiiny.co
+2025-119_q7,1,Very optimistic,0.1407308477880036,14.07,140.73084778800373,138,false,https://verasight-mpsa-2025.tiiny.co
+2025-119_q7,2,Somewhat optimistic,0.2071044207225879,20.71,207.1044207225881,216,false,https://verasight-mpsa-2025.tiiny.co
+2025-119_q7,3,Neither optimistic nor pessimistic,0.19106000820110972,19.11,191.0600082011099,168,false,https://verasight-mpsa-2025.tiiny.co
+2025-119_q7,4,Somewhat pessimistic,0.22344333499591829,22.34,223.4433349959185,227,false,https://verasight-mpsa-2025.tiiny.co
+2025-119_q7,5,Very pessimistic,0.23766138829238037,23.77,237.6613882923806,251,false,https://verasight-mpsa-2025.tiiny.co
+2025-119_q75,1,I currently own my home,0.48418023630933354,48.42,484.18023630933396,515,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q75,2,"I currently rent my home, but have owned a home in the past",0.07669843275192824,7.67,76.69843275192831,81,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q75,3,I currently rent my home and have never owned a home.,0.22079718701840145,22.08,220.79718701840164,218,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q75,4,"I have another living arrangement (eg., living with family, in student housing, etc.), but have owned a home in the past",0.10064546945985639,10.06,100.64546945985649,80,false,https://verasight-apsa-2024.tiiny.co
+2025-119_q75,5,I have another living arrangement and have never owned a home,0.11767867446048032,11.77,117.67867446048042,106,false,https://verasight-apsa-2024.tiiny.co
