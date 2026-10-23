@@ -312,8 +312,7 @@ Filter: nan
 
 ## 2025-026_policy_28
 
-From strongly support to strongly oppose, do you oppose or support this policy: Healthcare insurers should be required to cover the costs of women’s breast cancer screenings (i.e.
-Mammograms).
+From strongly support to strongly oppose, do you oppose or support this policy: Healthcare insurers should be required to cover the costs of women’s breast cancer screenings (i.e. Mammograms).
 
 Filter: nan
 
@@ -372,8 +371,7 @@ Filter: nan
 
 ## 2025-026_policy_7
 
-In the months leading up to the 2024 elections, did you see or hear any political advertisements (e.g.
-about voting, candidates, or ballot measures) in a language other than English?
+In the months leading up to the 2024 elections, did you see or hear any political advertisements (e.g. about voting, candidates, or ballot measures) in a language other than English?
 
 Filter: nan
 
